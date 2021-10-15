@@ -1,0 +1,22 @@
+{
+  "name": "docsify-image-caption",
+  "version": "1.0.0",
+  "description": "image caption plugin for docsify",
+  "main": "./dist/docsify-image-caption.js",
+  "author": "Joaxin<lotility@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joaxin/docsify-image-caption.git"
+  },
+  "keywords": [
+    "image caption",
+    "docsify",
+    "plugin"
+  ],
+  "bugs": {
+    "url": "https://github.com/Joaxin/docsify-image-caption/issues"
+  },
+  "homepage": "https://github.com/Joaxin/docsify-image-caption"
+}
+
